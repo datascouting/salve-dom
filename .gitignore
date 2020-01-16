@@ -2,3 +2,6 @@
 local-config.js
 node_modules
 build
+
+.idea
+salve-dom-ds-*.tar.gz

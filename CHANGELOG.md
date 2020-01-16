@@ -1,3 +1,12 @@
+## 7.0.0-ds (2020-01-16)
+
+
+### Changes
+
+* Customization for our Wed Version
+
+
+
 <a name="6.0.1"></a>
 ## [6.0.1](https://github.com/mangalam-research/salve-dom/compare/v6.0.0...v6.0.1) (2019-05-21)
 
